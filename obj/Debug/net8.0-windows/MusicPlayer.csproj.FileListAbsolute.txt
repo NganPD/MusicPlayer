@@ -23,3 +23,7 @@ D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-wind
 D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.pdb
 D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.genruntimeconfig.cache
 D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\ref\MusicPlayer.dll
+D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.sourcelink.json
