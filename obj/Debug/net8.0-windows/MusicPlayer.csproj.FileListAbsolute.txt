@@ -27,3 +27,7 @@ D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-wind
 D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
 D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.sourcelink.json
+D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\UserControls\PopularSong.baml
+D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\UserControls\PopularSong.g.cs
+D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\UserControls\Playlist.baml
+D:\24.FA.PRN212\B3W.02\PlayWithC#\MusicProject\MusicPlayer\obj\Debug\net8.0-windows\UserControls\Playlist.g.cs

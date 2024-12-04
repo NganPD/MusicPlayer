@@ -9,11 +9,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="5.1.0" />
+    <None Remove="Images\Playing.jpg" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Images\" />
+    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="5.1.0" />
   </ItemGroup>
 
 </Project>
